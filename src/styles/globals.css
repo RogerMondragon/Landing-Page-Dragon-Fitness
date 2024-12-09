@@ -1,0 +1,24 @@
+body {
+  margin: 00;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+main {
+  padding-top: 60px; /* Deja espacio para el Navbar */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  background-image: url('https://static.vecteezy.com/system/resources/previews/028/859/082/non_2x/futuristic-gym-interior-with-neon-lights-3d-rendering-ai-generative-free-photo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+}
